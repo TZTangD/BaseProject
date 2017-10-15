@@ -4,5 +4,5 @@
 .vs/
 obj/
 bin/
-aspnet-core/src/tz.saas.Web.Host/App_Data/Logs/
-aspnet-core/src/tz.saas.Web.Mvc/App_Data/Logs/
+aspnet-core/src/tzky.saas.Web.Host/App_Data/Logs/
+aspnet-core/src/tzky.saas.Web.Mvc/App_Data/Logs/
